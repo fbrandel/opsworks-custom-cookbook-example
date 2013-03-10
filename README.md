@@ -1,2 +1,1 @@
-opsworks-custom-cookbook-example
-================================
+Amazon OpsWorks cookbook example to set up a redis-server on a custom layer.
